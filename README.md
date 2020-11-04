@@ -1,7 +1,8 @@
 # Demo Web Spark
 
-Usando como base [el proyecto oficial](https://sparkjava.com/tutorials/application-structure)
-Adaptada a la arquitectura de 3 capas: Presentación-Negocio-Persistencia
+Usando como base [el proyecto oficial](https://sparkjava.com/tutorials/application-structure).
+
+Adaptada a la arquitectura de 3 capas: **Presentación-Negocio-Persistencia**
 
 ## Patrón MVC
 
